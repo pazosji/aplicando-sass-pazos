@@ -1,0 +1,54 @@
+*{margin: 0;
+padding: o;
+box-sizing: border-box;}
+
+
+header{background-color:rgb(15, 56, 90);
+display: flex;
+padding: 8px;
+border: solid 1rem rgb(47, 11, 47);
+h1{color: whitesmoke;
+display: flex;
+justify-content: center;
+align-content: flex-end;
+padding: 10px;}
+.navbar .navbar-nav .lista :hover{background-color: rgb(47, 11, 47);
+border-radius: 1rem;
+color: whitesmoke;}
+
+.navbar{background-color:rgb(15, 56, 90)}
+.navbar .navbar-nav .lista {list-style: none;
+display: flex;
+color: whitesmoke;
+padding: 1.5rem;
+justify-content:space-around;
+align-items: center;
+}
+nav .navbar-nav{display: flex;
+font-weight: bold;
+justify-content: center;
+padding: 3px;
+}
+
+
+}
+
+.carousel{padding: 10rem;
+}
+
+main{background-color:rgb(15, 56, 90);
+padding: 10rem;
+p{color: whitesmoke;
+display: flex;
+justify-content: center;
+margin: 5rem;}
+}
+
+footer{border: solid 0.5rem rgb(15, 56, 90);
+    background-color:rgb(47, 11, 47);
+    padding: 3rem;
+
+
+    h6{color: whitesmoke;}
+}
+
